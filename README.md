@@ -1,7 +1,7 @@
 ## DATI
 * Numero chilometri
 * Età passeggero
-* prezzo biglietto
+* prezzo biglietto intero
 * sconto minorenni
 * sconto over 65
 
