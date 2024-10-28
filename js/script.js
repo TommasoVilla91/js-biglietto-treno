@@ -5,7 +5,7 @@ const userKm = prompt("Quanti chilometri dovrai percorrere?"); //string
 console.log(userAge, userKm);
 
 if (isNaN(userAge, userKm)) {
-    alert("Quello che hai scritto non sono dei cazzo di numeri. Riscrivi bene!")
+    alert("Quello che hai scritto non sono dei numeri. Per favore riscrivi bene!")
 } else {
     //number transform
     const userAgeAsInt = parseInt(userAge); 
